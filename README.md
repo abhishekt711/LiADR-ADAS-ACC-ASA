@@ -1,4 +1,4 @@
-# LiADR-ADAS-ACC-ASA
+# e-ACCSA (LiDAR based ADAS)
 
 The corresponding code will be published soon after the paper is published.
 
